@@ -1,0 +1,221 @@
+# 
+# Translators:
+# 79353a696ad19dc202b261b3067b7640_bec941e, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: wp2pgpmail\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-01-14 15:30+0100\n"
+"PO-Revision-Date: 2017-09-21 19:02+0000\n"
+"Last-Translator: 79353a696ad19dc202b261b3067b7640_bec941e\n"
+"Language-Team: Greek (http://www.transifex.com/jeriel/wp2pgpmail/language/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e;_c\n"
+"X-Poedit-SearchPath-0: J:\\Internet\\wp2pgpmail\\wp_repository\\trunk\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:43
+msgid "Encrypted PGP Message"
+msgstr "Κρυπτογραφημένο μήνυμα PGP"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:47
+msgid "Form successfully submitted! The encrypted message has been sent."
+msgstr "Η φόρμα υποβλήθηκε με επιτυχία! Το κρυπτογραφημένο μήνυμα διαβιβάστηκε."
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:49
+msgid ""
+"The image verification code you entered is incorrect. No message has been "
+"sent."
+msgstr "Ο κωδικός επαλήθευσης εικόνας που έχετε εισάγει είναι λάθος. Κανένα μήνυμα διαβιβάστηκε."
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:49
+msgid "Please try again."
+msgstr "Παρακαλώ προσπάθηστε ξανά."
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:61
+msgid "No valid public PGP key has been entered yet."
+msgstr "Κανένα έγκυρο δημόσιο κλειδί PGP έχει καταχωρηθεί ακόμη."
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:63
+msgid "Your PGP public key has been entered correctly."
+msgstr "Το δημόσιο κλειδί PGP έχει εισαχθεί σωστά."
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:113
+msgid "Getting Started"
+msgstr "Τα πρώτα βήματα"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:115
+msgid "Enter your PGP public key in the field below on this page."
+msgstr "Πληκτρολογήστε το PGP δημόσιο κλειδί σας στο παρακάτω πεδίο για αυτή τη σελίδα"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:116
+msgid ""
+"Add the shortcode <b>[wp2pgpmail]</b> to any Post or Page to display the "
+"contact form."
+msgstr "Προσθέστε το σύντομο κωδικό <b>[wp2pgpmail]</b> σε οποιαδήποτε θέση ή σελίδα για να εμφανιστεί η φόρμα επικοινωνίας."
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:119
+msgid "Help Promote wp2pgpmail"
+msgstr "Βοήθεια προώθησης του wp2p gmail"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:121
+msgid ""
+"Get wp2pgpmail Pro version with Additional Fields, Unlimited Forms, Nested "
+"Drag n' Drop and Advanced Email Configuration!"
+msgstr "Αποκτήστε την wp2pgpmail Pro έκδοση με επιπλέον πεδία, απεριόριστα εντυπα, ιεραρχημένο Drag n 'Drop και Advanced Email Διαμόρφωση!"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:122
+msgid "Follow us on Twitter"
+msgstr "Ακολουθήστε μας στο Twitter"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:123
+msgid "Rate wp2pgpmail on WordPress.org"
+msgstr "Βαθμολογήστε το wp2pgpmail στο WordPress.org"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:126
+msgid "PGP Key Setup"
+msgstr "Ρύθμιση κλειδιού PGP"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:127
+msgid ""
+"Paste your PGP public key in the first field below. By validating, your key "
+"will be recognized and the other fields will be automatically filled."
+msgstr "Επικόλληση PGP δημόσιου κλειδιού στο πρώτο πεδίο παρακάτω. Με την επικύρωση, το κλειδί σας θα πρέπει να αναγνωριστεί και τα υπόλοιπα πεδία συμπληρώνονται αυτόματα."
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:142
+msgid "Version:"
+msgstr "Έκδοση:"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:146
+msgid "User ID:"
+msgstr "Ταυτότητα χρήστη:"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:150
+msgid "Key ID:"
+msgstr "Αναγνωριστικό κλειδιού:"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:154
+msgid "Public Key type and values:"
+msgstr "Τύπος δημόσιου κλειδιού και τιμές:"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:174
+msgid "Captcha field"
+msgstr "captcha πεδίο"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:175
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:179
+msgid "Yes"
+msgstr "Ναί"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:176
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:180
+msgid "No"
+msgstr "Οχι"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:178
+msgid "Collect IP address"
+msgstr "Συλλέξτε την διεύθυνση IP"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:182
+msgid "Save Changes"
+msgstr "Αποθήκευση αλλαγών"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:186
+msgid "Need help?"
+msgstr "Χρειαζεστε βοήθεια?"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:188
+msgid "Infomation about PGP from wp2pgpmail"
+msgstr "Πληροφορίες σχετικά με το PGP από το wp2pgpmail"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:189
+msgid "wp2pgpmail FAQ"
+msgstr "wp2pgpmail Συχνές Ερωτήσεις"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:190
+msgid "wp2pgpmail Support Ticket System"
+msgstr "wp2pgpmail Σύστημα Υποστήριξης εισιτηρίων"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:191
+msgid "wp2pgpmail Forums"
+msgstr "wp2pgpmail Φόρουμ"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/classes/formulaire.inc.php:14
+msgid "Name"
+msgstr "Ονομα"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/classes/formulaire.inc.php:15
+msgid "E-mail Address"
+msgstr "Διεύθυνση E-mail "
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/classes/formulaire.inc.php:16
+msgid "Message"
+msgstr "Μήνυμα"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/classes/formulaire.inc.php:17
+msgid "IP Address"
+msgstr "Διεύθυνση IP"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/classes/formulaire.inc.php:18
+msgid "This message has been sent from your website"
+msgstr "Το μήνυμα αυτό διαβιβάστηκε από την ιστοσελίδα σας"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/classes/formulaire.inc.php:18
+msgid "and has been encrypted using wp2pgpmail."
+msgstr "και έχει κρυπτογραφηθεί με χρήση του wp2pgpmail."
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/classes/formulaire.inc.php:20
+msgid ""
+"A field has not been completed. Thank you to complete in order to validate "
+"the form."
+msgstr "Ένα πεδίο δεν έχει ολοκληρωθεί. Σας ευχαριστούμε που θα το ολοκληρώσετε προκειμένου να επικυρωθεί η φόρμα."
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/classes/formulaire.inc.php:21
+msgid "The email address you typed is incorrect."
+msgstr "Η διεύθυνση email που πληκτρολογήσατε είναι λάθος."
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/classes/formulaire.inc.php:22
+msgid "encrypted data"
+msgstr "Κρυπτογραφημένα δεδομένα"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/classes/formulaire.inc.php:25
+msgid "Your Name"
+msgstr "Το όνομά σας"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/classes/formulaire.inc.php:26
+msgid "Your E-mail Address"
+msgstr "Η ηλεκτρονική σας διεύθυνση"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/classes/formulaire.inc.php:27
+msgid "Your Message"
+msgstr "Το Μήνυμα σας"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/classes/formulaire.inc.php:28
+msgid "Encrypt Message"
+msgstr "Κρυπτογραφημένο μήνυμα "
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/classes/formulaire.inc.php:29
+msgid "Reset"
+msgstr "Επαναφορά"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/classes/formulaire.inc.php:30
+msgid "Reload image"
+msgstr "Ανανέωση εικόνας"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/classes/formulaire.inc.php:31
+msgid "Type the word:"
+msgstr "Πληκτρολογήστε την λέξη:"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/classes/formulaire.inc.php:32
+msgid "Send"
+msgstr "Αποστολή"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/classes/formulaire.inc.php:35
+msgid "DATA NOT COLLECTED BY POLICY"
+msgstr "ΣΤΟ ΠΛΑΙΣΙΟ ΤΗΣ ΠΟΛΙΤΙΚΗΣ ΜΑΣ ΔΕΝ ΣΥΛΛΕΓΟΝΤΑΙ ΣΤΟΙΧΕΙΑ"
